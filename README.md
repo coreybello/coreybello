@@ -190,16 +190,16 @@
 
 **High-Performance Development Environment**:
 - **[Workstation](https://pcpartpicker.com/list/XTnGFZ)**: AMD Ryzen 9950X, RTX 5070 Ti, 96GB DDR5-6800 RAM (Windows 11, CUDA-based dev, AI training)
-- **Apple-Native Development Node** *(Planned)*: Mac Mini M4 for Swift/iOS development, cross-platform testing, and local Xcode builds
+- **Apple-Native Development Node**: Mac Mini M4 for Swift/iOS development, cross-platform testing, and local Xcode builds
 - **Persistent Automation Server**: Raspberry Pi cluster running Ubuntu 24.04.2, Samba NAS, and 2×4TB NVMe drives in RAID 1 for AI bots, n8n workflows, and data pipelines
 - **Networking**: Tailscale mesh VPN for secure remote access and cross-device orchestration
 - **Deployment**: Self-hosted inference engines and AI agents in Docker containers with air-gapped or LAN-only configurations
 
 ## 🚀 Career Trajectory & Objectives
 
-**Target Role**: AI Integration Specialist | AI/ML Engineer | AI Developer
-**Industry Focus**: 🏛️ Local Government | 🚀 Aerospace & Defense (Lockheed Martin, NASA, SpaceX, MacDill AFB)
-**Specialization**: Mission-critical AI systems, secure ML pipelines, real-time inference optimization
+- **Target Role**: AI Integration Specialist | AI/ML Engineer | AI Developer
+- **Industry Focus**: 🏛️ Local Government | 🚀 Aerospace & Defense (Lockheed Martin, NASA, SpaceX, MacDill AFB)
+- **Specialization**: Mission-critical AI systems, secure ML pipelines, real-time inference optimization
 
 **Current Positioning**:
 - **Internal AI Pioneer**: Leading AI adoption initiatives in municipal government environment
