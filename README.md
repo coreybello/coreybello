@@ -88,40 +88,53 @@
 
 ## 📈 Professional Evolution
 **From**: IT Operations & Technical Support → **To**: AI/ML Systems Architecture  
-- **Current**: Supporting 550+ enterprise users across 15+ mission-critical applications
-- **Building**: Self-hosted RAG systems with 95% retrieval accuracy, <200ms latency targets
-- **Scaling**: Prototype AI models to handle 1M+ requests/day with fault-tolerant architecture  
-- **Leading**: Internal AI adoption initiatives, NotebookLM deployments, and automation frameworks
+- **Current**: Delivering IT support to 550+ users across 15+ critical municipal applications  
+- **Building**: Self-hosted RAG prototypes with sub-second response targets and internal-only document access  
+- **Scaling**: Designing proof-of-concept architectures for high-volume, fault-tolerant LLM pipelines  
+- **Leading**: Initiating org-wide AI adoption with NotebookLM rollouts and automation playbooks
 
 ## 🛰️ Featured Projects
 
-### 🔒 Enterprise RAG Chatbot (Production)
-**Mission**: Deploy self-hosted AI assistant for 550+ municipal users with zero third-party data exposure  
-**Implementation**: Llama 3 + ChromaDB pipeline with 1000+ embedded internal documents  
-**Security**: Air-gapped deployment, on-premise inference, compliance-ready architecture  
-**Impact**: 24/7 documentation access, targeting 95% query resolution, <200ms response time  
-**Stack**: `Python` `ChromaDB` `Llama 3` `Streamlit` `Docker` `Enterprise Security`
+### 🔒 Enterprise RAG Chatbot *(In Progress — Internal Testing)*  
+- **Mission**: Build a self-hosted AI assistant to support 550+ municipal users without external data exposure  
+- **Implementation**: Llama 3 + ChromaDB prototype with 10,000+ embedded internal text+image documents  
+- **Security**: Air-gapped environment simulated using local-only infrastructure; future on-prem deployment planned  
+- **Impact Goal**: 24/7 documentation access with 95%+ query resolution under 200ms response time  
+- **Stack**: `Python` `ChromaDB` `Llama 3` `Streamlit` `Docker` `Local Hosting`  
+- **Project Link**: [GitHub Repo](https://github.com/coreybello/ragdemo)
 
-### 🤖 Multi-Agent Orchestration System
-**Mission**: Intelligent task routing and automated workflow execution  
-**Architecture**: Parent-child agent model with GPT-4 reasoning, modular task execution  
-**Integration**: Discord, Telegram, Google Calendar with encrypted credential management  
-**Reliability**: 1000+ daily automated tasks, 99.95% uptime, zero security incidents  
-**Stack**: `GPT-4` `LangChain` `Message Queues` `API Integration` `Real-time Processing`
+---
 
-### 📊 24/7 Intelligence Pipeline  
-**Mission**: Automated local data storage, backup, and edge AI workflows for continuous resilience and experimentation  
-**Infrastructure**: Raspberry Pi NAS with 1TB NVMe, Ubuntu 24.04, and Samba-backed file sync to Windows systems  
-**Optimization**: Low-power design (<5W), AI-assisted file automation, seamless cross-device backup  
-**Performance**: Fully autonomous daily backups with instant access, zero downtime over 6+ months  
-**Stack**: `Raspberry Pi` `Ubuntu` `Samba` `AI Automation` `Edge Compute`
+### 🤖 Multi-Agent Orchestration System *(Active Personal Project)*  
+- **Mission**: Automate complex tasks through dynamic agent delegation and modular workflow execution  
+- **Architecture**: Parent-agent with GPT-4 reasoning and sub-agent spawning for task decomposition  
+- **Integration**: Discord, Telegram, and Google Calendar with encrypted credential handling  
+- **Usage**: 1,000+ tasks executed; supports personal automation and dashboard intelligence  
+- **Stack**: `GPT-4` `LangChain` `n8n` `API Integration` `Real-time Orchestration`  
+- **Project Link**: *Coming Soon*
 
-### 🎯 Content Intelligence & Distribution
-**Mission**: Automated content analysis, prediction, and multi-platform deployment  
-**AI Models**: GPT-4 classification, engagement prediction (87% accuracy)  
-**Automation**: n8n + LangChain pipeline, 90% publishing speed improvement  
-**Scale**: Processing YouTube transcripts, Reddit aggregation, social media optimization  
-**Stack**: `n8n` `LangChain` `YouTube API` `Whisper` `Multi-platform Deployment`
+---
+
+### 📊 24/7 Intelligence Pipeline *(Live — Personal Automation Infrastructure)*  
+- **Mission**: Maintain persistent automations and edge AI workflows for experimentation and resilience  
+- **Infrastructure**: Raspberry Pi NAS (1TB NVMe) with Ubuntu 24.04 + Samba sync to Windows systems  
+- **Automation**:  
+  - **Discord Bots**: Reddit Scraper, YouTube → Transcription → Guide Generator  
+  - **n8n Workflows**: Twitch Clip → Multi-Platform Upload (YouTube Shorts, TikTok, Instagram Reels)  
+- **Expansion**: Actively developing new scripts and workflows for increased functionality  
+- **Stack**: `Raspberry Pi` `Ubuntu` `Samba` `n8n` `Discord Bots` `Edge Compute`
+- **Project Link**: *Coming Soon*
+
+---
+
+### 🧠 Personal AI Dashboard *(In Development)*  
+- **Mission**: Create a centralized web app for managing AI tools, agents, and personal productivity  
+- **Current App**:  
+  - **Mind Dump**: Organizes raw thoughts into tasks, outlines, and auto-generated GitHub repos  
+- **Planned Features**: RAG agents, research tools, file parsing, automation controls, and multimodal assistants  
+- **Stack**: `Next.js` `Tailwind` `OpenAI API` `n8n` `GitHub API`  
+- **Project Link**: [GitHub Repo](https://github.com/coreybello/minddump-app)
+
 
 ## 🏆 Professional Certifications
 
