@@ -189,10 +189,11 @@
 ## 🔬 Technical Infrastructure
 
 **High-Performance Development Environment**:
-- **Workstation**: AMD Ryzen 9950X, RTX 5070 Ti, 96GB DDR5-6800 RAM
-- **Local Persistent Server**: Raspberry Pi cluster (Ubuntu 24.04.2, Samba NAS, 2×4TB NVMe RAID 1)
-- **Networking**: Tailscale mesh VPN for secure remote development access
-- **Deployment**: Self-hosted inference engines, Docker containerization
+- **Workstation**: AMD Ryzen 9950X, RTX 5070 Ti, 96GB DDR5-6800 RAM (Windows 11, CUDA-based dev, AI training)
+- **Apple-Native Development Node**: Mac Mini M4 for Swift/iOS development, cross-platform testing, and local Xcode builds
+- **Persistent Automation Server**: Raspberry Pi cluster running Ubuntu 24.04.2, Samba NAS, and 2×4TB NVMe drives in RAID 1 for AI bots, n8n workflows, and data pipelines
+- **Networking**: Tailscale mesh VPN for secure remote access and cross-device orchestration
+- **Deployment**: Self-hosted inference engines and AI agents in Docker containers with air-gapped or LAN-only configurations
 
 ## 🚀 Career Trajectory & Objectives
 
