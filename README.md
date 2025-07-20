@@ -36,7 +36,7 @@
 ### 🛡️ Security & Compliance
 ![Security Clearance](https://img.shields.io/badge/Security%20Clearance-Eligible-FF0000?style=for-the-badge&logo=shield&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-CE0000?style=for-the-badge&logo=comptia&logoColor=white)
-![Security+](https://img.shields.io/badge/Security%2B-In%20Progress-FF6B35?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/Security%2B-In%20Progress-FF6B35?style=for-the-badge&logo=comptia&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
 
 </td>
