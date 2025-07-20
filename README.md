@@ -215,7 +215,6 @@
 
 ## 🤝 Let's Connect
 
-<div align="center">
 <a href="mailto:coreybellobiz@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -225,20 +224,15 @@
 <a href="https://coreybello.com">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</div>
-
-<div align="center">
-
-💼 **Currently leading**: AI automation initiatives in local government, focused on secure, internal deployments and long-term transformation.  
-🚀 **Exploring opportunities**: AI/ML roles in aerospace & defense where secure automation and responsible innovation align with national impact.  
-🔐 **Security**: U.S. citizen, eligible for security clearance  
-📍 **Location**: Tampa Bay area, FL — Open to relocation anywhere in the U.S. for mission-critical roles, ideally with relocation assistance  
-🎯 **Expertise**: Integrating enterprise IT with practical AI systems to accelerate government and defense operations.
-
-</div>
 
 ---
 
-<div align="center">
+💼 **Currently Leading**: AI automation initiatives in municipal government, focusing on secure internal deployments and long-term digital transformation.  
+🚀 **Exploring Opportunities**: AI/ML roles in aerospace & defense where secure automation and responsible innovation align with national impact — particularly with Lockheed Martin, NASA, or SpaceX.  
+🔐 **Security**: U.S. citizen · Eligible for security clearance  
+📍 **Mobility**: Based in Tampa Bay, FL — Open to relocation anywhere in the U.S. for mission-aligned roles, ideally with relocation assistance  
+🎯 **Expertise**: Integrating enterprise IT infrastructure with applied AI systems to accelerate operations in government and defense environments.
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
-</div>
