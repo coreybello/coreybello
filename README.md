@@ -94,18 +94,26 @@
 
 <div align="center">
 
-| **Certification**                                                                               | **Issuer**            | **Status**  | **Skills Focus**                                       |
-| :---------------------------------------------------------------------------------------------- | :-------------------- | :---------- | :----------------------------------------------------- |
-| [**AI Agent Developer**](https://www.coursera.org/learner/corey-bello)                          | Vanderbilt University | Completed   | Prompt Engineering, LLMs, AI Personalization           |
-| [**AI Developer Professional**](https://www.coursera.org/learner/corey-bello)                   | IBM                   | Completed   | Software Architecture, Deployment Pipelines, SDLC      |
-| [**AI Engineering Professional**](https://www.coursera.org/learner/corey-bello)                 | IBM                   | Completed   | PyTorch, Keras, NLP, Supervised/Unsupervised Learning  |
-| [**Deep Learning**](https://www.coursera.org/learner/corey-bello](https://coursera.org/share/fbc32572095627c8bbe6818815655b02)                               | IBM                   | Completed   | Neural Networks, Model Tuning, Time Series Forecasting |
-| [**Generative AI Engineering**](https://www.coursera.org/learner/corey-bello)                   | IBM                   | Completed   | Flask, Advanced Prompting, Custom Training Pipelines   |
-| [**Generative AI Leader**](https://www.coursera.org/learner/corey-bello)                        | Google                | Completed   | Innovation Strategy, Cloud Solutions (GCP)             |
-| [**Data Analytics Professional**](https://www.coursera.org/learner/corey-bello)                 | Google                | Completed   | SQL, R, Statistical Analysis, ETL Pipelines            |
-| [**CompTIA A+**](https://www.credly.com/badges/62d19539-80a1-4792-a837-2388b8add644/public_url) | CompTIA               | Completed   | Hardware, OS Troubleshooting, Network Basics           |
-| **CompTIA Security+**                                                                           | CompTIA               | In Progress | Network Security, Risk Management, Threat Detection    |
-
+| **Certification**                                                                                          | **Issuer**            | **Status**  | **Skills Focus**                                       |
+| :--------------------------------------------------------------------------------------------------------- | :-------------------- | :---------- | :----------------------------------------------------- |
+| [**AI Agent Developer**](https://coursera.org/share/073f50a5b77f8592be873211bcec3086)                      | Vanderbilt University | Completed   | Prompt Engineering, LLMs, AI Personalization           |
+| [**AI Developer Professional**](https://coursera.org/share/bffce86136dd4210683000b8751d8272)               | IBM                   | Completed   | Software Architecture, Deployment Pipelines, SDLC      |
+| [**AI Engineering Professional**](https://coursera.org/share/9511849f55a28f9ed06e76985589d213)             | IBM                   | Completed   | PyTorch, Keras, NLP, Supervised/Unsupervised Learning  |
+| [**Deep Learning**](https://coursera.org/share/fbc32572095627c8bbe6818815655b02)                           | IBM                   | Completed   | Neural Networks, Model Tuning, Time Series Forecasting |
+| [**Generative AI Engineering**](https://coursera.org/share/9511849f55a28f9ed06e76985589d213)               | IBM                   | Completed   | Flask, Advanced Prompting, Custom Training Pipelines   |
+| [**Google Generative AI Leader**](https://coursera.org/share/8cd5621b6d27714390947990c55e52e9)             | Google                | Completed   | Innovation Strategy, Cloud Solutions (GCP)             |
+| [**Google Data Analytics Professional**](https://coursera.org/share/14f31873bbc4c37168917a413dae72d8)      | Google                | Completed   | SQL, R, Statistical Analysis, ETL Pipelines            |
+| [**Google IT Support**](https://coursera.org/share/f7b8059a1c6c962594c1a52de6c078ec)                       | Google                | Completed   | Networking, Systems Admin, Security, Troubleshooting   |
+| [**CompTIA A+**](https://github.com/coreybello/coreybello/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf) | CompTIA               | Completed   | Hardware, OS Troubleshooting, Network Basics           |
+| **CompTIA Security+**                                                                                      | CompTIA               | In Progress | Network Security, Risk Management, Threat Detection    |
+| **Google Cybersecurity**                                                                                   | Google                | In Progress | SOC, Threat Detection, SIEM, IAM                       |
+| **IBM AI Product Manager**                                                                                 | IBM                   | In Progress | AI Lifecycle, Productization, Use Case Design          |
+| **IBM Data Science**                                                                                       | IBM                   | In Progress | Python, SQL, Data Wrangling, ML Modeling               |
+| **IBM RAG & Agentic AI**                                                                                   | IBM                   | In Progress | Retrieval-Augmented Generation, AI Agents              |
+| **Microsoft AI & ML Engineering**                                                                          | Microsoft             | In Progress | Azure AI Services, Model Deployment, ML Pipelines      |
+| **Google IT Automation with Python**                                                                       | Google                | Planned     | Python, Bash, Git, Automation                          |
+| **Microsoft Azure AI Fundamentals**                                                                        | Microsoft             | Planned     | AI Concepts, Azure Tools, Use Cases                    |
+| **Microsoft Azure AI Engineer Associate**                                                                  | Microsoft             | Planned     | Responsible AI, NLP, Vision, Custom Models             |
 
 </div>
 
