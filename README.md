@@ -94,16 +94,18 @@
 
 <div align="center">
 
-| Certification | Issuer | Credential ID | Skills Focus |
-|:-------------:|:------:|:-------------:|:-------------|
-| **AI Agent Developer** | Vanderbilt University | H42K1TMUJDGW | Prompt Engineering, LLMs, AI Personalization |
-| **IBM AI Developer Professional** | IBM | FO5OPJPZ17EF | Software Architecture, Deployment Pipelines, SDLC |
-| **IBM AI Engineering Professional** | IBM | 2R77SUJB0YS3 | PyTorch, Keras, NLP, Supervised/Unsupervised Learning |
-| **Deep Learning Specialist** | IBM | M1460987BYK2 | Neural Networks, Model Tuning, Time Series Forecasting |
-| **Generative AI Engineering** | IBM | EJABE411HKTG | Flask, Advanced Prompting, Custom Training Pipelines |
-| **Google Generative AI Leader** | Google | 86108KJYZK9H | Innovation Strategy, Cloud Solutions (GCP) |
-| **Google Data Analytics Professional** | Google | QHY442F1VDU6 | SQL, R, Statistical Analysis, ETL Pipelines |
-| **CompTIA A+** | CompTIA | Available on request | Security Practices, Network Protocols, Troubleshooting |
+| **Certification**                                                                               | **Issuer**            | **Status**  | **Skills Focus**                                       |
+| :---------------------------------------------------------------------------------------------- | :-------------------- | :---------- | :----------------------------------------------------- |
+| [**AI Agent Developer**](https://www.coursera.org/learner/corey-bello)                          | Vanderbilt University | Completed   | Prompt Engineering, LLMs, AI Personalization           |
+| [**AI Developer Professional**](https://www.coursera.org/learner/corey-bello)                   | IBM                   | Completed   | Software Architecture, Deployment Pipelines, SDLC      |
+| [**AI Engineering Professional**](https://www.coursera.org/learner/corey-bello)                 | IBM                   | Completed   | PyTorch, Keras, NLP, Supervised/Unsupervised Learning  |
+| [**Deep Learning**]([https://www.coursera.org/learner/corey-bello](https://coursera.org/share/fbc32572095627c8bbe6818815655b02))                               | IBM                   | Completed   | Neural Networks, Model Tuning, Time Series Forecasting |
+| [**Generative AI Engineering**](https://www.coursera.org/learner/corey-bello)                   | IBM                   | Completed   | Flask, Advanced Prompting, Custom Training Pipelines   |
+| [**Generative AI Leader**](https://www.coursera.org/learner/corey-bello)                        | Google                | Completed   | Innovation Strategy, Cloud Solutions (GCP)             |
+| [**Data Analytics Professional**](https://www.coursera.org/learner/corey-bello)                 | Google                | Completed   | SQL, R, Statistical Analysis, ETL Pipelines            |
+| [**CompTIA A+**](https://www.credly.com/badges/62d19539-80a1-4792-a837-2388b8add644/public_url) | CompTIA               | Completed   | Hardware, OS Troubleshooting, Network Basics           |
+| **CompTIA Security+**                                                                           | CompTIA               | In Progress | Network Security, Risk Management, Threat Detection    |
+
 
 </div>
 
