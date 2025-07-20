@@ -110,11 +110,11 @@
 **Stack**: `GPT-4` `LangChain` `Message Queues` `API Integration` `Real-time Processing`
 
 ### 📊 24/7 Intelligence Pipeline  
-**Mission**: Continuous data ingestion and AI-powered analysis for decision support  
-**Infrastructure**: Raspberry Pi cluster processing 1M+ data points monthly  
-**Optimization**: Adaptive rate limiting, automated failover, GPT-4 cost reduction (87%)  
-**Performance**: 99.95% uptime over 6 months, sub-second response times  
-**Stack**: `Raspberry Pi` `Apache Kafka` `Real-time Analytics` `Cost Optimization`
+**Mission**: Automated local data storage, backup, and edge AI workflows for continuous resilience and experimentation  
+**Infrastructure**: Raspberry Pi NAS with 1TB NVMe, Ubuntu 24.04, and Samba-backed file sync to Windows systems  
+**Optimization**: Low-power design (<5W), AI-assisted file automation, seamless cross-device backup  
+**Performance**: Fully autonomous daily backups with instant access, zero downtime over 6+ months  
+**Stack**: `Raspberry Pi` `Ubuntu` `Samba` `AI Automation` `Edge Compute`
 
 ### 🎯 Content Intelligence & Distribution
 **Mission**: Automated content analysis, prediction, and multi-platform deployment  
