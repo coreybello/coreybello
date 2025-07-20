@@ -98,7 +98,7 @@
 | :--------------------------------------------------------------------------------------------------------- | :-------------------- | :---------- | :----------------------------------------------------- |
 | [**AI Agent Developer**](https://coursera.org/share/073f50a5b77f8592be873211bcec3086)                      | Vanderbilt University | Completed   | Prompt Engineering, LLMs, AI Personalization           |
 | [**AI Developer Professional**](https://coursera.org/share/bffce86136dd4210683000b8751d8272)               | IBM                   | Completed   | Software Architecture, Deployment Pipelines, SDLC      |
-| [**AI Engineering Professional**](https://coursera.org/share/9511849f55a28f9ed06e76985589d213)             | IBM                   | Completed   | PyTorch, Keras, NLP, Supervised/Unsupervised Learning  |
+| [**AI Engineering Professional**](https://coursera.org/share/cf5e76266d5547b66b9a8b168163e7b5)             | IBM                   | Completed   | PyTorch, Keras, NLP, Supervised/Unsupervised Learning  |
 | [**Deep Learning**](https://coursera.org/share/fbc32572095627c8bbe6818815655b02)                           | IBM                   | Completed   | Neural Networks, Model Tuning, Time Series Forecasting |
 | [**Generative AI Engineering**](https://coursera.org/share/9511849f55a28f9ed06e76985589d213)               | IBM                   | Completed   | Flask, Advanced Prompting, Custom Training Pipelines   |
 | [**Google Generative AI Leader**](https://coursera.org/share/8cd5621b6d27714390947990c55e52e9)             | Google                | Completed   | Innovation Strategy, Cloud Solutions (GCP)             |
