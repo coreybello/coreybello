@@ -237,5 +237,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,1b263b,415a77,778da9&height=200&section=footer&font=Courier+Prime&animation=fadeIn"/>
+</div>
 
