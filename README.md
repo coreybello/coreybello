@@ -99,7 +99,7 @@
 | [**AI Agent Developer**](https://www.coursera.org/learner/corey-bello)                          | Vanderbilt University | Completed   | Prompt Engineering, LLMs, AI Personalization           |
 | [**AI Developer Professional**](https://www.coursera.org/learner/corey-bello)                   | IBM                   | Completed   | Software Architecture, Deployment Pipelines, SDLC      |
 | [**AI Engineering Professional**](https://www.coursera.org/learner/corey-bello)                 | IBM                   | Completed   | PyTorch, Keras, NLP, Supervised/Unsupervised Learning  |
-| [**Deep Learning**]([https://www.coursera.org/learner/corey-bello](https://coursera.org/share/fbc32572095627c8bbe6818815655b02))                               | IBM                   | Completed   | Neural Networks, Model Tuning, Time Series Forecasting |
+| [**Deep Learning**](https://www.coursera.org/learner/corey-bello](https://coursera.org/share/fbc32572095627c8bbe6818815655b02)                               | IBM                   | Completed   | Neural Networks, Model Tuning, Time Series Forecasting |
 | [**Generative AI Engineering**](https://www.coursera.org/learner/corey-bello)                   | IBM                   | Completed   | Flask, Advanced Prompting, Custom Training Pipelines   |
 | [**Generative AI Leader**](https://www.coursera.org/learner/corey-bello)                        | Google                | Completed   | Innovation Strategy, Cloud Solutions (GCP)             |
 | [**Data Analytics Professional**](https://www.coursera.org/learner/corey-bello)                 | Google                | Completed   | SQL, R, Statistical Analysis, ETL Pipelines            |
