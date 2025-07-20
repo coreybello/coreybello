@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=AI%20Implementation%20Specialist&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Building%20Mission-Critical%20AI%20Systems&descSize=20&descAlign=center&descAlignY=75)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1b2a,1b263b,415a77,778da9&height=200&section=header&text=AI%20Implementation%20Specialist&fontSize=50&animation=fadeIn&fontColor=FFFFFF&desc=Building%20Mission-Critical%20AI%20Systems&descSize=20&descAlign=center&descAlignY=75&fontAlignY=40&fontAlign=center&font=Courier+Prime)
 
 <div align="center">
 
