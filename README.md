@@ -117,7 +117,7 @@
 
 ### 📊 24/7 Intelligence Pipeline *(Live — Personal Automation Infrastructure)*  
 - **Mission**: Maintain persistent automations and edge AI workflows for experimentation and resilience  
-- **Infrastructure**: Raspberry Pi NAS (1TB NVMe) with Ubuntu 24.04 + Samba sync to Windows systems  
+- **Infrastructure**: Raspberry Pi NAS with 2×4TB NVMe drives in RAID 1 (mirrored), running Ubuntu 24.04 + Samba sync to Windows systems 
 - **Automation**:  
   - **Discord Bots**: Reddit Scraper, YouTube → Transcription → Guide Generator  
   - **n8n Workflows**: Twitch Clip → Multi-Platform Upload (YouTube Shorts, TikTok, Instagram Reels)  
@@ -130,9 +130,9 @@
 ### 🧠 Personal AI Dashboard *(In Development)*  
 - **Mission**: Create a centralized web app for managing AI tools, agents, and personal productivity  
 - **Current App**:  
-  - **Mind Dump**: Organizes raw thoughts into tasks, outlines, and auto-generated GitHub repos  
+  - **Mind Dump**: Voice-to-text capture and AI categorization routed into a master Google Sheet, triggering downstream n8n workflows for goals, projects, and tasks 
 - **Planned Features**: RAG agents, research tools, file parsing, automation controls, and multimodal assistants  
-- **Stack**: `Next.js` `Tailwind` `OpenAI API` `n8n` `GitHub API`  
+- **Stack**: `Next.js` `Tailwind` `OpenAI API` `n8n` `Supabase` `Google APIs` 
 - **Project Link**: [GitHub Repo](https://github.com/coreybello/minddump-app)
 
 
