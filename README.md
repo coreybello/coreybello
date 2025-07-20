@@ -197,9 +197,15 @@
 
 ## 🚀 Career Trajectory & Objectives
 
-- **Target Role**: AI Integration Specialist | AI/ML Engineer | AI Developer
-- **Industry Focus**: 🏛️ Local Government | 🚀 Aerospace & Defense (Lockheed Martin, NASA, SpaceX, MacDill AFB)
-- **Specialization**: Mission-critical AI systems, secure ML pipelines, real-time inference optimization
+- **Target Roles**: AI Integration Specialist · AI/ML Engineer · Applied AI Developer  
+- **Sectors of Interest**:  
+  - 🏛️ Municipal Government — Modernizing operations and service delivery in city, county, and state agencies through AI and automation  
+  - 🚀 Aerospace & Defense — Supporting mission-critical initiatives at organizations like Lockheed Martin, NASA, and SpaceX, as well as defense contractors operating within installations like MacDill Air Force Base  
+- **Dream Companies**: Lockheed Martin · NASA · SpaceX  
+- **Core Focus Areas**:  
+  - Designing secure, local-first ML pipelines  
+  - Deploying real-time inference systems with minimal latency
+  - Integrating AI into operational workflows, legacy platforms, and compliance-sensitive environments  
 
 **Current Positioning**:
 - **Internal AI Pioneer**: Leading AI adoption initiatives in municipal government environment
@@ -223,10 +229,10 @@
 
 <div align="center">
 
-💼 **Currently leading**: AI automation initiatives in local government, focused on secure, internal deployments and long-term transformation.
-🚀 **Exploring opportunities**: AI/ML roles in aerospace & defense where secure automation and responsible innovation align with national impact.
+💼 **Currently leading**: AI automation initiatives in local government, focused on secure, internal deployments and long-term transformation.  
+🚀 **Exploring opportunities**: AI/ML roles in aerospace & defense where secure automation and responsible innovation align with national impact.  
 🔐 **Security**: U.S. citizen, eligible for security clearance  
-📍 **Location**: Tampa Bay area, FL | Open to relocation for mission-critical opportunities  
+📍 **Location**: Tampa Bay area, FL — Open to relocation anywhere in the U.S. for mission-critical roles, ideally with relocation assistance  
 🎯 **Expertise**: Integrating enterprise IT with practical AI systems to accelerate government and defense operations.
 
 </div>
