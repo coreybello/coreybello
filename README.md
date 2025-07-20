@@ -8,7 +8,7 @@
 
 ## 🎯 Mission-Critical AI/ML Expertise
 
-**AI Implementation Specialist** transitioning from 9+ years of technical operations to full-stack AI/ML engineering. Currently building production-grade AI systems including **multi-agent orchestration frameworks**, **self-hosted RAG chatbots**, and **intelligent automation pipelines** for enterprise environments. Proven track record managing mission-critical infrastructure for 550+ users while pioneering AI adoption in traditional IT workflows.
+**AI Implementation Specialist** with 9+ years of technical operations experience, now engineering full-stack AI/ML systems for real-world impact. Currently building production-grade tools including **multi-agent orchestration frameworks**, **self-hosted RAG chatbots**, and **intelligent automation pipelines** tailored for enterprise and government environments. Proven ability to manage mission-critical infrastructure for 550+ users while leading AI adoption across legacy IT workflows.
 
 <table>
 <tr>
