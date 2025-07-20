@@ -176,15 +176,15 @@
 ## 🔬 Technical Infrastructure
 
 **High-Performance Development Environment**:
-- **Workstation**: AMD 9950X, RTX 5070 Ti, 96GB RAM
-- **Local AI Server**: Raspberry Pi cluster (Ubuntu 24.04.2, Samba NAS, 1TB NVMe)
+- **Workstation**: AMD Ryzen 9950X, RTX 5070 Ti, 96GB DDR5-6800 RAM
+- **Local Persistent Server**: Raspberry Pi cluster (Ubuntu 24.04.2, Samba NAS, 2TB NVMe)
 - **Networking**: Tailscale mesh VPN for secure remote development access
 - **Deployment**: Self-hosted inference engines, Docker containerization
 
 ## 🚀 Career Trajectory & Objectives
 
-**Target Role**: AI/ML Engineer | AI Developer | AI Integration Specialist  
-**Industry Focus**: Aerospace & Defense (Lockheed Martin, NASA, SpaceX, Tesla, MacDill AFB contractors)  
+**Target Role**: AI Integration Specialist | AI/ML Engineer | AI Developer
+**Industry Focus**: 🏛️ Local Government | 🚀 Aerospace & Defense (Lockheed Martin, NASA, SpaceX, MacDill AFB)
 **Specialization**: Mission-critical AI systems, secure ML pipelines, real-time inference optimization
 
 **Current Positioning**:
@@ -196,7 +196,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-<a href="mailto:coreybello94@gmail.com">
+<a href="mailto:coreybellobiz@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/coreybello">
@@ -209,10 +209,11 @@
 
 <div align="center">
 
-💼 **Currently seeking**: AI/ML Engineering roles in aerospace and defense  
+💼 **Currently leading**: AI automation initiatives in local government, focused on secure, internal deployments and long-term transformation.
+🚀 **Exploring opportunities**: AI/ML roles in aerospace & defense where secure automation and responsible innovation align with national impact.
 🔐 **Security**: U.S. citizen, eligible for security clearance  
-📍 **Location**: St. Petersburg, FL | Open to relocation for mission-critical opportunities  
-🎯 **Expertise**: Bridging traditional IT operations with cutting-edge AI systems  
+📍 **Location**: Tampa Bay area, FL | Open to relocation for mission-critical opportunities  
+🎯 **Expertise**: Integrating enterprise IT with practical AI systems to accelerate government and defense operations.
 
 </div>
 
