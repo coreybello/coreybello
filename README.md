@@ -190,7 +190,7 @@
 
 **High-Performance Development Environment**:
 - **Workstation**: AMD Ryzen 9950X, RTX 5070 Ti, 96GB DDR5-6800 RAM
-- **Local Persistent Server**: Raspberry Pi cluster (Ubuntu 24.04.2, Samba NAS, 2TB NVMe)
+- **Local Persistent Server**: Raspberry Pi cluster (Ubuntu 24.04.2, Samba NAS, 2×4TB NVMe RAID 1)
 - **Networking**: Tailscale mesh VPN for secure remote development access
 - **Deployment**: Self-hosted inference engines, Docker containerization
 
