@@ -101,7 +101,7 @@
 - **Security**: Air-gapped environment simulated using local-only infrastructure; future on-prem deployment planned  
 - **Impact Goal**: 24/7 documentation access with 95%+ query resolution under 200ms response time  
 - **Stack**: `Python` `ChromaDB` `Llama 3` `Streamlit` `Docker` `Local Hosting`  
-- **Project Link**: [GitHub Repo](https://github.com/coreybello/ragdemo)
+- **Project Link**: [GitHub Repo](https://github.com/coreybello/ragchatbot)
 
 ---
 
