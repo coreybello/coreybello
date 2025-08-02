@@ -8,7 +8,7 @@
 
 ## 🎯 Mission-Critical AI/ML Expertise
 
-**AI Implementation Specialist** with 9+ years of technical operations experience, now engineering full-stack AI/ML systems for real-world impact. Currently building production-grade tools including **multi-agent orchestration frameworks**, **self-hosted RAG chatbots**, and **intelligent automation pipelines** tailored for enterprise and government environments. Proven ability to manage mission-critical infrastructure for 550+ users while leading AI adoption across legacy IT workflows.
+**Building the future of enterprise AI** with over 9 years of software support experience and active AI/ML project portfolio. Currently engineering production RAG systems processing 2,000+ documents, developing prompt engineering frameworks, and implementing MCP-powered solutions. Certified in AI/ML (IBM, Google, Anthropic) with hands-on expertise in Python, JavaScript/TypeScript, and DevOps practices. Transforming legacy IT operations through intelligent automation and LLM integration.
 
 <table>
 <tr>
