@@ -143,17 +143,20 @@
 | **Issuer**            | **Certification**                                                                                  | **Status**  | **Skills Focus**                                       |
 | :-------------------- | :------------------------------------------------------------------------------------------------- | :---------- | :----------------------------------------------------- |
 | Vanderbilt University | [**AI Agent Developer**](https://coursera.org/share/073f50a5b77f8592be873211bcec3086)              | Completed   | Prompt Engineering, LLMs, AI Personalization           |
+| IBM                   | [**AI Product Manager**](https://coursera.org/share/75d1e771d846c1579a902f5e0de8948a)              | Completed   | AI Lifecycle, Productization, Use Case Design          |
 | IBM                   | [**AI Developer**](https://coursera.org/share/bffce86136dd4210683000b8751d8272)                    | Completed   | Software Architecture, Deployment Pipelines, SDLC      |
 | IBM                   | [**AI Engineering**](https://coursera.org/share/cf5e76266d5547b66b9a8b168163e7b5)                  | Completed   | PyTorch, Keras, NLP, Supervised/Unsupervised Learning  |
 | IBM                   | [**Deep Learning**](https://coursera.org/share/fbc32572095627c8bbe6818815655b02)                   | Completed   | Neural Networks, Model Tuning, Time Series Forecasting |
 | IBM                   | [**Generative AI Engineering**](https://coursera.org/share/9511849f55a28f9ed06e76985589d213)       | Completed   | Flask, Advanced Prompting, Custom Training Pipelines   |
 | Google                | [**Generative AI Leader**](https://coursera.org/share/8cd5621b6d27714390947990c55e52e9)            | Completed   | Innovation Strategy, Cloud Solutions (GCP)             |
+| Google                | [**Cybersecurity**](https://coursera.org/share/0fc5c8b7d4adc4b72a244ab7f7c937b6)                   | Completed   | SOC, Threat Detection, SIEM, IAM                       |
 | Google                | [**Data Analytics**](https://coursera.org/share/14f31873bbc4c37168917a413dae72d8)                  | Completed   | SQL, R, Statistical Analysis, ETL Pipelines            |
 | Google                | [**IT Support**](https://coursera.org/share/f7b8059a1c6c962594c1a52de6c078ec)                      | Completed   | Networking, Systems Admin, Security, Troubleshooting   |
 | CompTIA               | [**A+**](https://github.com/coreybello/coreybello/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf) | Completed   | Hardware, OS Troubleshooting, Network Basics           |
+| Anthropic             | [**Intro to MCP**](https://verify.skilljar.com/c/f3uxuvo6urkj)                                     | Completed   | MCP Server Development, AI Tool Integration, Prompt Engineering |
+| Anthropic             | [**MCP: Advanced Topics**](https://verify.skilljar.com/c/6bf5sqsshrud)                             | Completed   | AI Sampling Architecture, Real-Time Notifications, Transport Protocols & Deployment Scaling |
+| Anthropic             | [**Claude Code in Action**](https://verify.skilljar.com/c/7ee7dq38avtp)                            | Completed   | AI Code Assistant Integration, Context Management, GitHub Workflow Automation |
 | CompTIA               | **Security+**                                                                                      | In Progress | Network Security, Risk Management, Threat Detection    |
-| Google                | **Cybersecurity**                                                                                  | In Progress | SOC, Threat Detection, SIEM, IAM                       |
-| IBM                   | **AI Product Manager**                                                                             | In Progress | AI Lifecycle, Productization, Use Case Design          |
 | IBM                   | **Data Science**                                                                                   | In Progress | Python, SQL, Data Wrangling, ML Modeling               |
 | IBM                   | **RAG & Agentic AI**                                                                               | In Progress | Retrieval-Augmented Generation, AI Agents              |
 | Microsoft             | **AI & ML Engineering**                                                                            | In Progress | Azure AI Services, Model Deployment, ML Pipelines      |
