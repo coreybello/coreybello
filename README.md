@@ -17,17 +17,17 @@ I hold an active **CJIS clearance** and am currently deploying **NotebookLM** an
 
 ## 🚀 Featured Projects
 
-### [Enterprise Knowledgebase Management System (KBMS)](https://github.com/coreybello/ragchatbot)
+### [Enterprise Knowledgebase Management System (KBMS)](https://github.com/coreybello/enterprise-kbms)
 - **Goal:** Reduce time-to-answer from ~15 min to ~2 min across 15 enterprise apps.
 - **Stack:** Python, FastAPI, Postgres, Jobs API, Docker.
 - **Impact:** Saved 150+ hours/month, improved first-contact resolution by 30%.
 
-### Enterprise RAG Chatbot *(Internal Testing)*
+### [Enterprise RAG Chatbot *(Internal Testing)*](https://github.com/coreybello/enterprise-rag-chatbot)
 - **Goal:** Deliver cited, templated answers from 2,000+ internal documents.
 - **Stack:** Python, ChromaDB, Llama 3, Streamlit, Docker.
 - **Status:** Internal testing with measurable accuracy and latency metrics.
 
-### ITSM AI Copilot *(Prototype)*
+### [ITSM AI Copilot *(Prototype)*](https://github.com/coreybello/itsm-ai-copilot)
 - **Goal:** Automate ticket triage, suggest cited replies, and pre-fill ticket fields.
 - **Stack:** Python microservices, RAG integration, Prompt Library.
 - **Status:** Prototype ready; pilot planned.
