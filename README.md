@@ -1,4 +1,6 @@
-![Header](./githubheader.gif)
+<div align="center">
+  <img src="./githubheader.gif" alt="Header" />
+</div>
 
 # Hi, I’m Corey 👋
 
