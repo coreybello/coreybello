@@ -11,7 +11,8 @@ I hold an active **CJIS clearance** and am currently deploying **NotebookLM** an
 - **Developing RAG chatbot architectures** with vector databases, scheduled ingestion, and prompt catalogs.
 - **Prototyping ITSM AI copilots** with human-in-the-loop approval, field pre-fill, and ticket triage automation.
 - **Fine-tuning LLMs** (Mistral 7B, Gemma, Llama 3) via QLoRA for domain-specific enterprise use cases.
-- **Building automation infrastructure** on Raspberry Pi for persistent, edge-based AI workflows.
+- **Building automation infrastructure** on Raspberry Pi and Mac Mini for persistent, edge-based AI workflows.
+- **Planning and building a home lab** — converting existing hardware into a rack-based system, swapping the PC case to a server case, and setting up a dedicated home lab rack for scalable AI and automation experimentation.
 
 ---
 
