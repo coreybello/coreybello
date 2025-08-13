@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./githubheader.gif" alt="Header" />
+  <img src="./githubheader.gif" alt="Header" autoplay loop style="width:100%; max-width:1000px;" />
 </div>
 
 # Hi, I’m Corey 👋
