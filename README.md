@@ -1,3 +1,5 @@
+![Header](./githubheader2.png)
+
 # Hi, I’m Corey 👋
 
 I’m an **Applied AI & Solutions Engineer** bridging **AI R&D**, **systems integration**, and **end-to-end deployment**. With 9+ years of enterprise application support experience, I specialize in building **secure, high-performance AI systems** that modernize IT operations, accelerate service delivery, and operate in compliance-sensitive environments.
