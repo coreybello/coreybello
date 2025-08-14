@@ -1,4 +1,5 @@
-![Header](githubheader2.png)
+![Header](https://raw.githubusercontent.com/coreybello/coreybello/main/githubheader2.png)
+
 
 # Hi, I’m Corey 👋
 
