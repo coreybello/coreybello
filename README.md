@@ -2,7 +2,7 @@
 
 # Hi, I’m Corey 👋
 
-I’m an **Applied AI & Solutions Engineer** bridging **AI R&D**, **systems integration**, and **end-to-end deployment**. With 9+ years of enterprise application support experience, I specialize in building **secure, high-performance AI systems** that modernize IT operations, accelerate service delivery, and operate in compliance-sensitive environments.
+I’m an **Applied AI & Solutions Engineer** bridging **AI R&D**, **systems integration**, and **end-to-end deployment**. With 10+ years of enterprise application support experience, I specialize in building **secure, high-performance AI systems** that modernize IT operations, accelerate service delivery, and operate in compliance-sensitive environments.
 
 I hold an active **CJIS clearance** and am currently deploying **NotebookLM** and **RAG chatbot** solutions while completing my **B.S. in Artificial Intelligence** (4.0 GPA).
 
