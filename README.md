@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/githubheader2.png" alt="Header" width="100%">
-</p>
+![Header](githubheader2.png)
 
 # Hi, I’m Corey 👋
 
